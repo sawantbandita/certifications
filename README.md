@@ -4,4 +4,6 @@
 - Issued: Feb 2026  
 - Platform: Google Cloud  
 
-[View Certificate](./google-cloud-certificate.pdf)
+[View Full Certificate](./google-cloud-certificate.pdf)
+
+![Certificate Preview](./google-cloud-certificate.jpg)
